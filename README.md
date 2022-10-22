@@ -1,2 +1,2 @@
 # penn_state
-Pyja course from Pennsylvania
+Python and Java course from Pennsylvania
